@@ -137,7 +137,7 @@ nav a:hover {
 }
 
 .same-landing-intro{
-    font-size: 1.125rem;
+    font-size: 0.825rem;
     line-height: 4;
 }
 
@@ -634,7 +634,7 @@ nav a:hover {
 }
    
 .right-resume-tabs label {
-    
+    width: 50%;
     order: 1;
     display: block;
     padding: 1rem 2rem;
@@ -696,7 +696,7 @@ nav a:hover {
 
 .cv-progress-bar span {
     border: 1px solid #573322;
-    width: 25%;
+    width: 40%;
     text-align: start;
     text-transform: capitalize;
 }
@@ -708,40 +708,41 @@ nav a:hover {
 }
 
 .html-css {
-    width: 75%;
-}
-
-.javascript {
     width: 50%;
 }
 
+.javascript {
+    width: 35%;
+}
+
 .php {
-    width: 73%;
+    width: 58%;
 }
 
 .dbms {
-    width: 70%;
-}
-
-.wordpress {
     width: 55%;
 }
 
+.wordpress {
+    width: 40%;
+}
+
 .communicate {
-    width: 70%;
+    width: 55%;
 }
 
 .team-work {
-    width: 75%;
+    width: 60%;
 }
 
 .self-motivation {
-    width: 73%;
+    width: 58%;
 }
 
 .speed {
-    width: 70%;
+    width: 55%;
 }
+
 
 /*@media (max-width: 45em) {
     .tabs .tab,
@@ -763,7 +764,7 @@ nav a:hover {
     border-radius: 14px;
     color: white;
     background-color: #573322;
-    width: 30%;
+    width: 50%;
     padding: 2.5% 0;
     margin: 3% 0;
 }
