@@ -368,6 +368,46 @@
         width: 20%;
     }
     
+    .html-css {
+        width: 75%;
+    }
+    
+    .javascript {
+        width: 50%;
+    }
+    
+    .php {
+        width: 73%;
+    }
+    
+    .dbms {
+        width: 70%;
+    }
+    
+    .wordpress {
+        width: 55%;
+    }
+
+    .communicate {
+        width: 70%;
+    }
+    
+    .team-work {
+        width: 75%;
+    }
+    
+    .self-motivation {
+        width: 73%;
+    }
+    
+    .speed {
+        width: 70%;
+    }
+
+    .resume-button {
+        width: 30%;
+    }
+    
     .portfolio {
         width: 100%;
         height: 100vh;
