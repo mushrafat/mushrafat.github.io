@@ -771,6 +771,12 @@ nav a:hover {
     margin: 3% 0;
 }
 
+.resume-button a {
+    position: relative;
+    text-decoration: none;
+    color: white;
+}
+
 .portfolio {
     position: relative;
     width: 100%;
